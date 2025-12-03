@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora Salarial CLT (Brasil)",
+  "description": "Uma calculadora completa de salário líquido com base nas regras da CLT 2024/2025, incluindo cálculo progressivo de INSS, IRRF e visualização gráfica dos descontos. Conta com um assistente de IA para explicar os impostos.",
+  "requestFramePermissions": []
+}
